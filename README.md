@@ -7,8 +7,8 @@ You can see the live demo [here](https://really-simple-todo-app-vuejs.herokuapp.
 It is licenced GNU Public License (GPLv2 or higher) so you can use it for whatever purpose you want to.
 If you want to add to the project, I am happy if you send a pull request.
 
-Please note, this project is not using a data store yet (but local storage), so any time you refresh it will reset your data.
-If you want to store, save and edit your data, you need to setup a database and add the logic for that.
+Please note, this project is not using a data store yet (but local storage).
+If you want to store, edit and save your data, you need to setup a database and add the logic for that.
 ```
 
 ## Project setup
